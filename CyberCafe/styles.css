@@ -1,0 +1,81 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: left; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.Cybercafe1{
+    background-color: rgb(255, 1, 1);
+    height: 50px;
+    width: 100%;
+
+}
+
+.l{
+    background-color: rgb(243, 52, 4);
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+.m{
+    
+    height: 300px;
+    width: 10%;
+    float: left;
+}
+
+.r{
+    background-color: rgb(221, 161, 210);
+    height: 300px;
+    width: 15%;
+    float: left;
+}
+
+.sml{background-color: rgb(76, 0, 255);
+height: 900px;
+width: 25%;
+float: left;
+}
+
+
+.moving{
+    background-color:#6c32d9;
+    width: 100%;
+    height: 50px;
+}
+
+.textbox {
+    background-color: blue;
+    height: 600px;
+    width: 50%;
+    color: aliceblue;
+}
+
+
+
+.header{
+
+    background-color: #D9325E;
+    width: 100%;
+    height: 50px;
+}
+    .wideimage{
+    background-color: blue;
+    width: 100%;
+    height: auto;}
+    .ad{
+    background-color:#011526;
+    width: 30%;
+    height: 500px;
+    float: right;
+    margin-top: 110px;
+    margin-right: 280px;
+}
+p{
+    color: #2D90A6;
+   font-size: 35px;
+
+}
